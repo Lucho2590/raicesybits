@@ -99,7 +99,7 @@ export default function ComingSoonPage() {
           transition={{ duration: 0.8, delay: 0.8 }}
         >
           <Link
-            href="https://instagram.com/raicesybits"
+            href="https://www.instagram.com/raicesybits/"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-3 px-6 py-3 bg-foreground text-background rounded-full hover:bg-foreground/90 transition-colors font-display text-sm tracking-wide"
