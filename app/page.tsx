@@ -44,7 +44,7 @@ export default function ComingSoonPage() {
           className="text-muted-foreground text-lg sm:text-xl mb-4 max-w-lg mx-auto leading-relaxed"
         >
           Combinamos la sabiduría de la carpintería tradicional con la
-          innovación tecnológica para crear espacios perfectos para la niñes.
+          innovación tecnológica para crear espacios perfectos para la niñez.
         </motion.p>
 
         {/* Slogan */}
